@@ -8,9 +8,16 @@
          url('../fonts/Vazir-Light-FD.woff2') fortmat('woff2');
 
 }
+
+@font-face{
+    font-family: Bnazanin;
+    src: url('../fonts/BNazanin.ttf') format('truetype'),
+         url('../fonts/BNazanin.woff') format('woff'),
+         url('../fonts/BNazanin.woff2') format('woff2');
+}
  
 html, body{
-    font-family: Vazir;
+    font-family: Vazir, Bnazanin;
 }
 
 
