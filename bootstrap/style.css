@@ -1,3 +1,6 @@
+
+/* font css code */
+
 @font-face {
     font-family: Vazir;
     src: url('../fonts/Vazir-Light-FD.ttf') fortmat('truetype'),
@@ -9,6 +12,13 @@
 html, body{
     font-family: Vazir;
 }
+
+
+
+
+
+
+/* footer css code */
 
 #footer-area{
     padding: 45px 0 15px 0;
@@ -92,6 +102,12 @@ html, body{
     color: #f0f0f0;
 }
 
+
+
+
+
+/* css code for animation of card image when mouse hovering */
+
 /* [1] The container */
 .img-hover-zoom {
     height: 500px; /* [1.1] Set it as per your need */
@@ -112,6 +128,8 @@ html, body{
 
 
 
+
+/* css code for shoping cart */
 
   body {
     color: #000;
@@ -185,3 +203,20 @@ html, body{
         width: 100%
     }
 }
+
+
+
+
+
+
+/* css code for set size of carousel pictures in mobile version */
+
+.carousel-item img {
+
+    width: auto;
+    
+    height: 250px;
+    
+    max-height: 250px;
+    
+    }
