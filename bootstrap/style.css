@@ -27,10 +27,8 @@ html, body{
     font-family: Vazir;
 }
 
-.single-footer p{
-    
+.single-footer h3 p{
     font-family: Vazir;
-
 }    
 
 .link-area li{
@@ -54,9 +52,6 @@ html, body{
     padding: 0;
 }
 
-.single-footer p{
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 .footer-social a{
     width: 30px;
