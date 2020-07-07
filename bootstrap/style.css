@@ -445,3 +445,22 @@ section .section-title{
 .post-detail ul{
 	margin-top:15px;
 }
+
+
+/* css for main product page */
+
+body {
+    background: linear-gradient(to right, #c04848, #480048);
+    min-height: 100vh
+  }
+  
+  .text-gray {
+    color: #aaa
+  }
+  
+  img:last-child {
+    height: 170px;
+    width: 170px;
+    margin-left: 0;
+    margin-right: 20px;
+  }
